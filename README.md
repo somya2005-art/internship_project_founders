@@ -1,7 +1,8 @@
 This is the second version of my Founders Info web page. It features a clean UI with a smooth auto-scrolling slider that displays information about all the founders. The slider automatically moves, and pauses on hover or focus for better user interaction and accessibility.
 
 🔗 Live Preview
-👉 Check it out here
+
+👉 https://somya2005-art.github.io/internship_project_founders_version_2/
 
 🧰 Built With
 - HTML5
